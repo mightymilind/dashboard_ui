@@ -1,5 +1,4 @@
-# Here is the preview of App:
+# App UI is here:
 
-![image](https://user-images.githubusercontent.com/82041920/211617657-f02f029a-cffb-41e5-b854-95a002f001f5.png)
-
+![image](https://user-images.githubusercontent.com/113119831/219877000-bea6b1e1-c3ac-454b-b899-cc643d23b1f7.png)
 
